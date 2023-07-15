@@ -1,0 +1,15 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "description": "A laptop computer, sometimes called a notebook computer by manufacturers, is a battery- or AC-powered personal computer generally smaller than a briefcase that can easily be transported and conveniently used in temporary spaces such as on airplanes, in libraries, temporary offices, and at meetings.",
+      "im-url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "description": "A laptop has an all-in-one design, with a built-in monitor, keyboard, touchpad (which replaces the mouse), and speakers. This means it is fully functional, even when no peripherals are connected. A laptop is also quicker to set up, and there are fewer cables to get in the way.",
+      "im-url": "https://plus.unsplash.com/premium_photo-1673548917645-e8d9ed21e2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+  
+}

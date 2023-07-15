@@ -1,0 +1,9 @@
+.containr{
+    display: flex;
+    border: 1px solid;
+    gap: 4px;
+}
+.child{
+    border:2px solid grey;
+    margin: 10px;
+}
